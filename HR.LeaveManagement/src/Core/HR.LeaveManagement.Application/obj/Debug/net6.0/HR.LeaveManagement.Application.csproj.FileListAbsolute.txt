@@ -1,0 +1,15 @@
+C:\Users\Abraham\cleanarchitectureEskalate\HR.LeaveManagement\src\core\HR.LeaveManagement.Application\obj\Debug\net6.0\HR.LeaveManagement.Application.csproj.AssemblyReference.cache
+C:\Users\Abraham\cleanarchitectureEskalate\HR.LeaveManagement\src\core\HR.LeaveManagement.Application\obj\Debug\net6.0\HR.LeaveManagement.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Abraham\cleanarchitectureEskalate\HR.LeaveManagement\src\core\HR.LeaveManagement.Application\obj\Debug\net6.0\HR.LeaveManagement.Application.AssemblyInfoInputs.cache
+C:\Users\Abraham\cleanarchitectureEskalate\HR.LeaveManagement\src\core\HR.LeaveManagement.Application\obj\Debug\net6.0\HR.LeaveManagement.Application.AssemblyInfo.cs
+C:\Users\Abraham\cleanarchitectureEskalate\HR.LeaveManagement\src\core\HR.LeaveManagement.Application\obj\Debug\net6.0\HR.LeaveManagement.Application.csproj.CoreCompileInputs.cache
+C:\Users\Abraham\cleanarchitectureEskalate\HR.LeaveManagement\src\Core\HR.LeaveManagement.Application\bin\Debug\net6.0\HR.LeaveManagement.Application.deps.json
+C:\Users\Abraham\cleanarchitectureEskalate\HR.LeaveManagement\src\Core\HR.LeaveManagement.Application\bin\Debug\net6.0\HR.LeaveManagement.Application.dll
+C:\Users\Abraham\cleanarchitectureEskalate\HR.LeaveManagement\src\Core\HR.LeaveManagement.Application\bin\Debug\net6.0\HR.LeaveManagement.Application.pdb
+C:\Users\Abraham\cleanarchitectureEskalate\HR.LeaveManagement\src\Core\HR.LeaveManagement.Application\bin\Debug\net6.0\HR.LeaveMangement.Domain.dll
+C:\Users\Abraham\cleanarchitectureEskalate\HR.LeaveManagement\src\Core\HR.LeaveManagement.Application\bin\Debug\net6.0\HR.LeaveMangement.Domain.pdb
+C:\Users\Abraham\cleanarchitectureEskalate\HR.LeaveManagement\src\Core\HR.LeaveManagement.Application\obj\Debug\net6.0\HR.LeaveManagement.Application.csproj.CopyComplete
+C:\Users\Abraham\cleanarchitectureEskalate\HR.LeaveManagement\src\Core\HR.LeaveManagement.Application\obj\Debug\net6.0\HR.LeaveManagement.Application.dll
+C:\Users\Abraham\cleanarchitectureEskalate\HR.LeaveManagement\src\Core\HR.LeaveManagement.Application\obj\Debug\net6.0\refint\HR.LeaveManagement.Application.dll
+C:\Users\Abraham\cleanarchitectureEskalate\HR.LeaveManagement\src\Core\HR.LeaveManagement.Application\obj\Debug\net6.0\HR.LeaveManagement.Application.pdb
+C:\Users\Abraham\cleanarchitectureEskalate\HR.LeaveManagement\src\Core\HR.LeaveManagement.Application\obj\Debug\net6.0\ref\HR.LeaveManagement.Application.dll
